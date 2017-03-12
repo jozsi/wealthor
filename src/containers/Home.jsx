@@ -13,6 +13,7 @@ import Pulse from 'grommet/components/icons/Pulse';
 import Logout from 'grommet/components/icons/base/Logout';
 import { logout } from '../actions/user';
 import { read, create } from '../actions/wallet';
+import NoData from '../components/NoData';
 
 class Home extends Component {
   componentDidMount() {
@@ -57,6 +58,9 @@ class Home extends Component {
               })}
             />
           </Box>
+          if (wallet.length === 0) {
+            <NoData />
+          }
           <List selectable>
             {wallet.map(item => (
               <ListItem justify="between" key={item.id}>
