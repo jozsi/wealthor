@@ -7,6 +7,7 @@ import Home from './containers/Home';
 import Layout from './containers/Layout';
 import Login from './containers/Login';
 import PrivateRoute from './containers/PrivateRoute';
+import Simulation from './containers/Simulation';
 import Wallet from './containers/Wallet';
 
 const App = ({ store }) => (
@@ -16,6 +17,7 @@ const App = ({ store }) => (
         <Switch>
           <PrivateRoute exact path="/" component={Home} />
           <PrivateRoute path="/wallet/:id" component={Wallet} />
+          <PrivateRoute path="/simulation" component={Simulation} />
           <Route path="/login" component={Login} />
           <Redirect to="/" />
         </Switch>
