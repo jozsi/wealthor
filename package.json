@@ -30,7 +30,7 @@
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "currency-formatter": "^1.2.1",
-    "isemail": "^2.2.1",
+    "isemail": "^3.0.0",
     "jsonwebtoken": "^7.4.1",
     "koa": "^2.2.0",
     "koa-bodyparser": "^4.2.0",
