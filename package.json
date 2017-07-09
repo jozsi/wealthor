@@ -45,7 +45,7 @@
   },
   "devDependencies": {
     "escape-string-regexp": "^1.0.5",
-    "eslint": "^3.19.0",
+    "eslint": "^4.2.0",
     "eslint-config-airbnb": "^15.0.1",
     "eslint-plugin-import": "^2.6.1",
     "eslint-plugin-jest": "^20.0.3",
