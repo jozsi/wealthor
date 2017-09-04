@@ -60,7 +60,7 @@
     "grommet-addons": "^0.4.0",
     "moment": "^2.18.1",
     "nodemon": "^1.11.0",
-    "object.omit": "^2.0.1",
+    "object.omit": "^3.0.0",
     "prop-types": "^15.5.10",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
