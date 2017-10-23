@@ -47,7 +47,7 @@
     "npm-run-all": "^4.1.0"
   },
   "devDependencies": {
-    "codecov": "^2.3.0",
+    "codecov": "^3.0.0",
     "escape-string-regexp": "^1.0.5",
     "eslint": "^4.5.0",
     "eslint-config-airbnb": "^15.1.0",
