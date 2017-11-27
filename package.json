@@ -52,7 +52,7 @@
     "escape-string-regexp": "^1.0.5",
     "eslint-plugin-jest": "^21.3.2",
     "grommet": "^1.9.0",
-    "grommet-addons": "^0.5.0",
+    "grommet-addons": "^0.6.0",
     "moment": "^2.19.2",
     "nodemon": "^1.12.1",
     "object.omit": "^3.0.0",
