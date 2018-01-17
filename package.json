@@ -43,7 +43,7 @@
     "koa-jwt": "^3.3.0",
     "koa-router": "^7.3.0",
     "koa-static": "^4.0.2",
-    "mongoose": "^4.13.8",
+    "mongoose": "^5.0.0",
     "npm-run-all": "^4.1.2"
   },
   "devDependencies": {
