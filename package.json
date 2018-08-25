@@ -52,7 +52,7 @@
   "devDependencies": {
     "codecov": "^3.0.0",
     "dot-prop-immutable": "^1.4.0",
-    "enzyme": "^3.3.0",
+    "enzyme": "^3.4.4",
     "enzyme-adapter-react-16": "^1.1.1",
     "escape-string-regexp": "^1.0.5",
     "eslint-plugin-jest": "^21.15.0",
